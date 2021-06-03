@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# leaf
 
-You can use the [editor on GitHub](https://github.com/newtoallofthis123/leaf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A Simple QR-Code Generator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Leaf v.0.1 
 
-### Markdown
+By NoobScience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Leaf is a simple Qr-COde Generator. It is light weight, easy to use, private and secure.
 
-```markdown
-Syntax highlighted code block
+![icon](https://github.com/newtoallofthis123/leaf/blob/main/Assets/icon.png)
 
-# Header 1
-## Header 2
-### Header 3
+Leaf is a simple python program I wrote to learn python. It is actually quite useful
 
-- Bulleted
-- List
+## Download
+For the non compiled version and source code download [leaf_source_code.zip](https://github.com/newtoallofthis123/leaf/releases/download/v.0.1/leaf_source_code.zip)
 
-1. Numbered
-2. List
+For the portable zip version, download [Leaf_v.0.1.zip](https://github.com/newtoallofthis123/leaf/releases/download/v.0.1/Leaf_v.0.1.zip)
 
-**Bold** and _Italic_ and `Code` text
+For the Setup.exe download [Leaf_v.0.1.exe](https://github.com/newtoallofthis123/leaf/releases/download/v.0.1/Leaf_v.0.1.exe)
 
-[Link](url) and ![Image](src)
-```
+## ScreenShot
+![screenshot](https://github.com/newtoallofthis123/leaf/blob/main/Assets/leaf%20icon.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Usage
+To Use it, Enter the data you want to encode and enter the name of the qr-code
 
-### Jekyll Themes
+Then click generate.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/newtoallofthis123/leaf/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Once you generate the QR-Code, just click the open button to open the QR-Code
 
-### Support or Contact
+The Qr-Codes are Generated in the directory you store leaf. You can regularly clear all the png file by choosing the option
+to delete all QR-code in the Edit menu.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Future releases
+Leaf_v.1.1 has the option to generate the Qr-Code in temp directory by deflaut.
+
+Hope you enjoy using Leaf.
